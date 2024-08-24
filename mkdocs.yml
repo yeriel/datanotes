@@ -7,17 +7,20 @@ site_description: >-
   Find clear and useful information for your projects and studies.
 
 # Repository
-repo_name: yeriel/notes
-repo_url: https://github.com/yeriel/notes
+repo_name: yeriel/datascinotes
+repo_url: https://github.com/yeriel/datascinotes.git
 
 # Configuration
 theme:
   name: material
+  language: es
   features:
     - search.suggest
     - search.highlight
     - navigation.tabs
     - navigation.prune
+    - navigation.instant
+    - navigation.instant.progress
     - toc.follow
     - content.tabs.link
     - content.code.annotation
@@ -36,13 +39,18 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+  palette:
+    primary: black
+    accent: deep purple
 
 nav:
   - Home:
-    - mkdindex.md
+    - index.md
+    - a.md
 
 copyright: Copyright &copy; 2024 - 2028 
 
+#Extensions
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -55,11 +63,13 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
-# Additional configuration
 extra_javascript:
   - javascripts/katex.js
   - https://unpkg.com/katex@0/dist/katex.min.js
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
 
 extra:
   analytics:
