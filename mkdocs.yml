@@ -44,9 +44,14 @@ theme:
     accent: deep purple
 
 nav:
-  - Home:
+  - Inicio:
     - index.md
-    - a.md
+  - Matematica:
+    - math/algebra_lineal.md
+  - Estadistica:
+    - statistics/descriptiva.md
+  - Software:
+    - software/python.md
 
 copyright: Copyright &copy; 2024 - 2028 
 
