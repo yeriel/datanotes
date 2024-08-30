@@ -46,12 +46,22 @@ theme:
 nav:
   - Inicio:
     - index.md
-  - Matematica:
-    - math/algebra_lineal.md
-  - Estadistica:
-    - statistics/descriptiva.md
   - Software:
     - software/python.md
+  - Estadistica:
+    - statistics/descriptiva.md
+    - statistics/probabilidades.md
+  - Matematica:
+    - math/algebra_lineal.md
+  - Data Science:
+    - ds/ciencia_de_datos.md
+  - Artificial Intelligence:
+    - ai/agentes.md
+  - Deep Learning:
+    - dl/redes_neuronales.md
+
+  
+
 
 copyright: Copyright &copy; 2024 - 2028 
 
