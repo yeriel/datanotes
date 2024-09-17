@@ -1,43 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://yeriel.github.io/datascinotes/</loc>
-         <lastmod>2024-08-30</lastmod>
+         <loc>https://yeriel.github.io/datanotes/</loc>
+         <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yeriel.github.io/datascinotes/ai/agentes/</loc>
-         <lastmod>2024-08-30</lastmod>
+         <loc>https://yeriel.github.io/datanotes/topics/ai/agentes/</loc>
+         <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yeriel.github.io/datascinotes/dl/redes_neuronales/</loc>
-         <lastmod>2024-08-30</lastmod>
+         <loc>https://yeriel.github.io/datanotes/topics/ai/dl/redes_neuronales/</loc>
+         <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yeriel.github.io/datascinotes/ds/ciencia_de_datos/</loc>
-         <lastmod>2024-08-30</lastmod>
+         <loc>https://yeriel.github.io/datanotes/topics/ai/ml/machine_learning/</loc>
+         <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yeriel.github.io/datascinotes/math/algebra_lineal/</loc>
-         <lastmod>2024-08-30</lastmod>
+         <loc>https://yeriel.github.io/datanotes/topics/ai/ml/regresion/</loc>
+         <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yeriel.github.io/datascinotes/software/python/</loc>
-         <lastmod>2024-08-30</lastmod>
+         <loc>https://yeriel.github.io/datanotes/topics/math/algebra_lineal/</loc>
+         <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yeriel.github.io/datascinotes/statistics/descriptiva/</loc>
-         <lastmod>2024-08-30</lastmod>
+         <loc>https://yeriel.github.io/datanotes/topics/math/probability/probabilidades/</loc>
+         <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://yeriel.github.io/datascinotes/statistics/probabilidades/</loc>
-         <lastmod>2024-08-30</lastmod>
+         <loc>https://yeriel.github.io/datanotes/topics/math/statistics/descriptiva/</loc>
+         <lastmod>2024-09-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yeriel.github.io/datanotes/topics/software/git/fundamentos/</loc>
+         <lastmod>2024-09-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yeriel.github.io/datanotes/topics/software/py/fundamentos/</loc>
+         <lastmod>2024-09-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yeriel.github.io/datanotes/topics/software/py/poo/</loc>
+         <lastmod>2024-09-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yeriel.github.io/datanotes/topics/software/py/tips/</loc>
+         <lastmod>2024-09-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
