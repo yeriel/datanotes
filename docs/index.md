@@ -25,7 +25,7 @@ hide:
 
     **Aprende a analizar datos de manera efectiva**. Desde conceptos básicos hasta técnicas avanzadas de interpretación.
 
-    [:octicons-arrow-right-24: Explorar](statistics/descriptiva.md)
+    [:octicons-arrow-right-24: Explorar](topics/math/statistics/descriptiva.md)
 
 -   :fontawesome-solid-calculator:{ .lg .middle } **Matemáticas**
 
@@ -33,7 +33,7 @@ hide:
 
     **Explora los diversos aspectos de las matemáticas**, incluyendo álgebra, cálculo y teoría de números.
 
-    [:octicons-arrow-right-24: Comenzar](math/algebra_lineal.md)
+    [:octicons-arrow-right-24: Comenzar](topics/math/algebra/algebra_lineal.md)
 
 -   :material-scale-balance:{ .lg .middle } **Inteligencia Artificial**
 

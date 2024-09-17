@@ -63,8 +63,10 @@ nav:
         - topics/math/statistics/descriptiva.md
       - Probabilidades:
         - topics/math/probability/probabilidades.md
-    - Algebra Lineal:
-      - topics/math/algebra_lineal.md
+    - Fundamentales:
+      - Algebra Lineal:
+        - topics/math/algebra/algebra_lineal.md
+  
   - Artificial Intelligence:
     - "Machine Learning":
         - "Fundamentos":
